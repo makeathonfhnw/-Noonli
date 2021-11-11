@@ -1,2 +1,2 @@
-# makeathon2021
+# makeathon2021 - Team Noonli
 Repository for Makeathon 2021 content.
